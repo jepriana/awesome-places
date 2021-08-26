@@ -84,6 +84,7 @@ packages:
     source: sdk
     version: "0.0.0"
 <<<<<<< HEAD
+<<<<<<< HEAD
   flutter_dotenv:
     dependency: "direct main"
     description:
@@ -91,6 +92,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "5.0.2"
+=======
+>>>>>>> 7d5e8194c2142e20851a51217d5ec5d0a2adfb3a
 =======
 >>>>>>> 7d5e8194c2142e20851a51217d5ec5d0a2adfb3a
   flutter_plugin_android_lifecycle:
