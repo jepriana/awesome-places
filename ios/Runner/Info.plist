@@ -22,6 +22,16 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We nee to take a picture</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We nee to take a picture</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We nee to record voice</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We nee to use your location</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We nee to use your location</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
